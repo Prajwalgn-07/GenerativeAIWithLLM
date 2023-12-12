@@ -29,7 +29,7 @@
 
 ## Week2
 
-### [Week2 Lab](Week2/Lab_2_summarize_dialogue.ipynb)
+### [Week2 Lab](Week2/Lab_2_fine_tune_generative_ai_model.ipynb)
 
 ### Multi-task, instruction fine-tuning
 
