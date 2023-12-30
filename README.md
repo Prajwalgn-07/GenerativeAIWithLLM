@@ -55,3 +55,29 @@
 
 ### Prompt tuning with soft prompts
 - [The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/pdf/2104.08691.pdf)
+
+
+## Week3
+
+### Reinforcement Learning from Human-Feedback (RLHF)
+- [Training language models to follow instructions with human feedback](https://arxiv.org/pdf/2203.02155.pdf)
+- [Learning to summarize from human feedback](https://arxiv.org/pdf/2009.01325.pdf)
+
+### Proximal Policy Optimization (PPO)
+- [Proximal Policy Optimization Algorithms](https://arxiv.org/pdf/1707.06347.pdf)
+- [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/pdf/2305.18290.pdf)
+
+### Scaling human feedback
+- [Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/pdf/2212.08073.pdf)
+
+### Advanced Prompting Techniques
+- [Chain-of-thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/pdf/2201.11903.pdf)
+- [PAL: Program-aided Language Models](https://arxiv.org/abs/2211.10435)
+- [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629)
+
+### LLM powered application architectures
+- [LangChain Library (GitHub)](https://github.com/hwchase17/langchain)
+- [Who Owns the Generative AI Platform?](https://a16z.com/2023/01/19/who-owns-the-generative-ai-platform/)
+
+Credits:
+- [Deep Learning.ai](https://www.deeplearning.ai/)
