@@ -1,5 +1,7 @@
 # [GenerativeAIWithLLM](https://www.coursera.org/learn/generative-ai-with-llms/)
 
+## [Certificate](https://www.coursera.org/account/accomplishments/verify/5YW5DNXPA85H)
+
 ## Week1
 
 ### [Week1 Lab](Week1/Lab_1_summarize_dialogue.ipynb)
@@ -58,6 +60,8 @@
 
 
 ## Week3
+
+### [Week3 Lab](Week3/Lab_3_fine_tune_model_to_detoxify_summaries.ipynb)
 
 ### Reinforcement Learning from Human-Feedback (RLHF)
 - [Training language models to follow instructions with human feedback](https://arxiv.org/pdf/2203.02155.pdf)
